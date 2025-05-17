@@ -10,7 +10,7 @@ A simple and responsive Sudoku game built using pure **HTML**, **CSS**, and **Ja
 ## ✨ Features
 
 - 9x9 interactive Sudoku grid
-- Selectable difficulty levels (Easy, Medium, Hard)
+- Selectable difficulty levels (Easy, Medium, Hard, Very hard, Insane, Inhuman)
 - Timer to track progress
 - Player name display
 - Input highlighting and error indicators
