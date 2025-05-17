@@ -21,5 +21,5 @@ A simple and responsive Sudoku game built using pure **HTML**, **CSS**, and **Ja
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sudoku-game.git
-cd sudoku-game
+git clone https://github.com/shivprasad08/Sudoku.git
+cd Sudoku
